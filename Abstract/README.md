@@ -9,3 +9,6 @@ To create an abstract class in C#, you use the “abstract” keyword before the
 
 Abstraction in C# is the process to hide the internal details and show only the functionality. The abstract modifier indicates the incomplete implementation. The keyword abstract is used before the class or method to declare the class or method as abstract. Also, the abstract modifier can be used with indexers, events, and properties.
 
+
+![abstractclass](https://github.com/sushilsky25/Design-Patterns/assets/31982301/96637e15-0f9d-4028-8530-e67fd1cdd6be)
+
