@@ -1,0 +1,14 @@
+C:\Users\Dinesh Yadav\source\repos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.exe
+C:\Users\Dinesh Yadav\source\repos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.deps.json
+C:\Users\Dinesh Yadav\source\repos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.json
+C:\Users\Dinesh Yadav\source\repos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.dev.json
+C:\Users\Dinesh Yadav\source\repos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.dll
+C:\Users\Dinesh Yadav\source\repos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.pdb
+C:\Users\Dinesh Yadav\source\repos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\Dinesh Yadav\source\repos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinesh Yadav\source\repos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Dinesh Yadav\source\repos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfo.cs
+C:\Users\Dinesh Yadav\source\repos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh Yadav\source\repos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.dll
+C:\Users\Dinesh Yadav\source\repos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.pdb
+C:\Users\Dinesh Yadav\source\repos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.genruntimeconfig.cache
