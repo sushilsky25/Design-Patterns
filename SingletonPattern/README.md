@@ -88,6 +88,7 @@ namespace SingletonPattern
 }
 
 OUTPUT:
+
 ![image](https://github.com/sushilsky25/Design-Patterns/assets/31982301/1e1c3c37-bfcd-4c33-9fed-00110e659549)
 
 When to use it?
