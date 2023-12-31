@@ -1,0 +1,14 @@
+C:\Users\Dinesh Yadav\source\repos\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.exe
+C:\Users\Dinesh Yadav\source\repos\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.deps.json
+C:\Users\Dinesh Yadav\source\repos\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.runtimeconfig.json
+C:\Users\Dinesh Yadav\source\repos\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.runtimeconfig.dev.json
+C:\Users\Dinesh Yadav\source\repos\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.dll
+C:\Users\Dinesh Yadav\source\repos\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.pdb
+C:\Users\Dinesh Yadav\source\repos\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.csproj.AssemblyReference.cache
+C:\Users\Dinesh Yadav\source\repos\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinesh Yadav\source\repos\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\Dinesh Yadav\source\repos\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.AssemblyInfo.cs
+C:\Users\Dinesh Yadav\source\repos\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh Yadav\source\repos\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.dll
+C:\Users\Dinesh Yadav\source\repos\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.pdb
+C:\Users\Dinesh Yadav\source\repos\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.genruntimeconfig.cache
